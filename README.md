@@ -48,9 +48,9 @@ A multi-page personal portfolio website with Home, About, Projects and Contact p
 
 - **Partner:** [@Chrispuskinaro](https://github.com/Chrispuskinaro)
 - **Pair repo:** https://github.com/TOCHOMOT385-hash/iyf-s12-week-03-pair-TOCHOMOT385-hash
-- **PR I opened:** PASTE YOUR PR LINK HERE
-- **PR I reviewed:** PASTE PARTNER'S PR LINK HERE
-- **Merge-conflict PR:** PASTE CONFLICT PR LINK HERE
+- **PR I opened:** iyf-s12-week-03-chrispuskinaro
+- **PR I reviewed:** iyf-s12-week-03-chrispuskinaro
+- **Merge-conflict PR:** iyf-s12-week-03-chrispuskinaro
 
 ## License
 
