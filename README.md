@@ -24,3 +24,34 @@ A multi-page personal portfolio website with Home, About, Projects and Contact p
 - Git & GitHub
 
 ## Project Structure
+
+## What I Learned
+
+- How to structure a multi-page website with shared navigation
+- How to use Flexbox and Grid for responsive layout
+- How to use Git branches, pull requests, and resolve merge conflicts
+- How to write a clear README and document a project
+
+## Future Improvements
+
+- [ ] Add JavaScript interactivity
+- [ ] Implement dark mode
+- [ ] Add project filtering
+
+## Contact
+
+- Email: tochomot385@gmail.com
+- LinkedIn: [Toch Omot](https://linkedin.com/in/toch-omot)
+- GitHub: [@TOCHOMOT385-Hash](https://github.com/TOCHOMOT385-Hash)
+
+## Collaboration
+
+- **Partner:** [@Devki](https://github.com/Devki)
+- **Pair repo:** https://github.com/Devki/iyf-s12-week-03-Devki
+- **PR I opened:** https://github.com/Devki/iyf-s12-week-03-Devki/pull/1
+- **PR I reviewed:** https://github.com/Devki/iyf-s12-week-03-Devki/pull/2
+- **Merge-conflict PR:** https://github.com/TOCHOMOT385-Hash/iyf-s12-week-03-TOCHOMOT385-Hash/pull/1
+
+## License
+
+MIT
