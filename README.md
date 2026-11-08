@@ -46,11 +46,11 @@ A multi-page personal portfolio website with Home, About, Projects and Contact p
 
 ## Collaboration
 
-- **Partner:** [@Devkimani](https://github.com/Devkimani)
-- **Pair repo:** https://github.com/Devki/iyf-s12-week-03-Devkimani
-- **PR I opened:** https://github.com/Devkimani/iyf-s12-week-03-Devkimani/pull/1
-- **PR I reviewed:** https://github.com/Devkimani/iyf-s12-week-03-Devkimani/pull/2
-- **Merge-conflict PR:** https://github.com/TOCHOMOT385-Hash/iyf-s12-week-03-TOCHOMOT385-Hash/pull/1
+- **Partner:** [@Chrispuskinaro](https://github.com/Chrispuskinaro)
+- **Pair repo:** https://github.com/TOCHOMOT385-hash/iyf-s12-week-03-pair-TOCHOMOT385-hash
+- **PR I opened:** PASTE YOUR PR LINK HERE
+- **PR I reviewed:** PASTE PARTNER'S PR LINK HERE
+- **Merge-conflict PR:** PASTE CONFLICT PR LINK HERE
 
 ## License
 
